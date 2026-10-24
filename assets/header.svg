@@ -1,40 +1,72 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#60A5FA">
-        <animate attributeName="stop-color" values="#60A5FA;#A78BFA;#22D3EE;#60A5FA" dur="6s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="1" stop-color="#2563EB">
-        <animate attributeName="stop-color" values="#2563EB;#22D3EE;#A78BFA;#2563EB" dur="6s" repeatCount="indefinite"/>
-      </stop>
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#22D3EE"/>
     </linearGradient>
+
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Area nama, dipakai untuk sapuan cahaya -->
+    <clipPath id="nameClip">
+      <text x="500" y="112" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="58" font-weight="700">Khalilurrahman Mahdi</text>
+    </clipPath>
+
+    <!-- Area reveal nama dari kiri ke kanan -->
+    <clipPath id="nameReveal">
+      <rect x="100" y="0" width="0" height="240">
+        <animate attributeName="width" from="0" to="800" begin="0.3s" dur="1.4s" fill="freeze"/>
+      </rect>
+    </clipPath>
+
+    <!-- Reveal subtitle seperti mengetik -->
+    <clipPath id="subReveal">
+      <rect x="200" y="0" width="0" height="240">
+        <animate attributeName="width" from="0" to="600" begin="2s" dur="1.8s" fill="freeze"/>
+      </rect>
+    </clipPath>
+
+    <!-- Animasi bingkai yang tergambar -->
+    <mask id="frameMask">
+      <rect width="1000" height="240" fill="black"/>
+    </mask>
   </defs>
 
+  <!-- Latar -->
   <rect width="1000" height="240" rx="18" fill="#020617"/>
 
-  <!-- Bintang berkedip -->
-  <circle cx="90" cy="50" r="2" fill="#ffffff"><animate attributeName="opacity" values="0;1;0" dur="2.4s" repeatCount="indefinite"/></circle>
-  <circle cx="220" cy="190" r="1.5" fill="#93C5FD"><animate attributeName="opacity" values="0;1;0" dur="3s" begin="0.7s" repeatCount="indefinite"/></circle>
-  <circle cx="780" cy="40" r="2" fill="#ffffff"><animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.3s" repeatCount="indefinite"/></circle>
-  <circle cx="900" cy="170" r="1.5" fill="#C4B5FD"><animate attributeName="opacity" values="0;1;0" dur="2.8s" begin="1.2s" repeatCount="indefinite"/></circle>
-  <circle cx="650" cy="205" r="2" fill="#ffffff"><animate attributeName="opacity" values="0;1;0" dur="2.2s" begin="0.9s" repeatCount="indefinite"/></circle>
-  <circle cx="340" cy="35" r="1.5" fill="#93C5FD"><animate attributeName="opacity" values="0;1;0" dur="3.2s" begin="1.6s" repeatCount="indefinite"/></circle>
-
-  <!-- Nama muncul dengan efek scale dan fade -->
-  <text x="500" y="115" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="60" font-weight="700" fill="url(#g)" opacity="0">
-    Khalilurrahman Mahdi
-    <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
-  </text>
-
-  <!-- Garis bawah melebar dari tengah -->
-  <rect x="300" y="132" width="0" height="3" rx="2" fill="url(#g)">
-    <animate attributeName="x" from="500" to="300" begin="1.2s" dur="0.8s" fill="freeze"/>
-    <animate attributeName="width" from="0" to="400" begin="1.2s" dur="0.8s" fill="freeze"/>
+  <!-- Bingkai menggambar diri -->
+  <rect x="8" y="8" width="984" height="224" rx="14" fill="none" stroke="#1E40AF" stroke-width="1.5" stroke-dasharray="2500" stroke-dashoffset="2500">
+    <animate attributeName="stroke-dashoffset" from="2500" to="0" dur="2.5s" fill="freeze"/>
   </rect>
 
-  <!-- Subtitle fade in -->
-  <text x="500" y="182" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="22" fill="#94A3B8" opacity="0">
-    Full-Stack Web Developer · AI Enthusiast
-    <animate attributeName="opacity" from="0" to="1" begin="2s" dur="1s" fill="freeze"/>
+  <!-- Tag kecil di pojok -->
+  <text x="36" y="44" font-family="Fira Code, Consolas, monospace" font-size="14" fill="#3B82F6" opacity="0">
+    &lt;dev /&gt;
+    <animate attributeName="opacity" from="0" to="0.8" begin="0.1s" dur="0.6s" fill="freeze"/>
   </text>
-</svg>
+
+  <!-- Partikel naik -->
+  <circle cx="120" cy="240" r="1.8" fill="#BAE6FD">
+    <animate attributeName="cy" values="240;-10" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="260" cy="240" r="1.2" fill="#C4B5FD">
+    <animate attributeName="cy" values="240;-10" dur="8s" begin="1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.9;0" dur="8s" begin="1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="450" cy="240" r="1.5" fill="#7DD3FC">
+    <animate attributeName="cy" values="240;-10"
