@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Membangun+aplikasi+web+berbasis+AI;Dari+ide+menjadi+produk+nyata" alt="Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Membangun+aplikasi+web+modern+berbasis+AI;Dari+ide+menjadi+produk+nyata" alt="Typing animation"/>
 
 <br/><br/>
 
@@ -18,19 +18,61 @@
 
 ## Tentang Saya
 
-Halo, saya **Khalilurrahman Mahdi**, lulusan Teknologi Informasi dari **Politeknik Negeri Samarinda**. Saya membangun aplikasi web yang responsif dan terstruktur, serta mengintegrasikan **AI** untuk mengotomatisasi alur kerja.
+Saya **Khalilurrahman Mahdi**, lulusan Teknologi Informasi dari **Politeknik Negeri Samarinda**. Saya fokus membangun aplikasi web yang responsif, terstruktur, dan mudah digunakan, serta mengintegrasikan **Artificial Intelligence** untuk menyederhanakan proses bisnis dan mengotomatisasi alur kerja.
+
+<br/>
+
+| | |
+|:---|:---|
+| **Peran** | Full-Stack Web Developer |
+| **Fokus** | Web Application, Sistem Internal, AI Integration |
+| **Pendidikan** | Teknologi Informasi, Politeknik Negeri Samarinda |
+| **Lokasi** | Indonesia |
 
 ---
 
-## Tech Stack
+## Keahlian Teknis
 
-**Frontend:** React · TypeScript · Tailwind CSS · Vite
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**Backend:** PHP · Laravel · MySQL · Node.js
+**Frontend**
 
-**AI:** OpenAI API · LangChain · Hugging Face · Prompt Engineering
+React · TypeScript · Tailwind CSS · Vite · Zustand · Recharts
 
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,php,laravel,mysql,py,git,github,vscode&theme=dark" alt="Tech stack"/>
+</td>
+<td width="33%" valign="top">
+
+**Backend & Database**
+
+PHP · Laravel · MySQL · Node.js · REST API
+
+</td>
+<td width="33%" valign="top">
+
+**AI & Automation**
+
+OpenAI API · LangChain · Hugging Face · Prompt Engineering · Python
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,php,laravel,mysql,nodejs,py,git,github,vscode&theme=dark" alt="Tech stack"/>
+
+</div>
+
+---
+
+## Fokus Pengembangan
+
+- Membangun aplikasi web modern yang fungsional, responsif, dan mudah dipelihara
+- Menerapkan praktik software engineering: arsitektur yang rapi, kode yang bersih, dan dokumentasi yang jelas
+- Mengintegrasikan LLM dan AI-driven tools ke dalam produk nyata
+- Terus belajar melalui proyek, eksplorasi teknologi baru, dan kolaborasi
 
 ---
 
@@ -47,8 +89,13 @@ Halo, saya **Khalilurrahman Mahdi**, lulusan Teknologi Informasi dari **Politekn
 
 <div align="center">
 
-### Hubungi Saya
+## Mari Terhubung
+
+Terbuka untuk diskusi proyek, kolaborasi, dan peluang profesional.
+
+<br/>
 
 <a href="https://khalildev.web.id/"><img src="https://img.shields.io/badge/Kunjungi_Portofolio-2563EB?style=for-the-badge" alt="Portofolio"/></a>
+<a href="https://linkedin.com/in/USERNAME-KAMU"><img src="https://img.shields.io/badge/Hubungi_di_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </div>
