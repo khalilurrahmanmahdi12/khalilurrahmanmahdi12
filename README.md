@@ -1,20 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:172554,100:2563EB&height=260&section=header&text=Khalilurrahman%20Mahdi&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Full-Stack%20Web%20Developer%20%26%20AI%20Enthusiast&descAlignY=64&descSize=20&descAlign=50" width="100%" alt="Header Animasi"/>
+<img src="./assets/header.svg" width="100%" alt="Khalilurrahman Mahdi"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=800&lines=Membangun+aplikasi+web+modern+berbasis+AI;Full-Stack+Developer+%7C+React+%7C+Laravel;Mengubah+ide+menjadi+produk+nyata+%F0%9F%9A%80" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Membangun+aplikasi+web+berbasis+AI;Dari+ide+menjadi+produk+nyata" alt="Typing"/>
 
 <br/><br/>
 
-<a href="https://khalildev.web.id/"><img src="https://img.shields.io/badge/🌐_PORTOFOLIO-2563EB?style=for-the-badge&logoColor=white" alt="Portofolio"/></a>
-<a href="https://github.com/khalilurrahmanmahdi12"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://khalildev.web.id/"><img src="https://img.shields.io/badge/Portofolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portofolio"/></a>
+<a href="https://github.com/khalilurrahmanmahdi12"><img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/USERNAME-KAMU"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-<br/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=khalilurrahmanmahdi12&label=Profile+Views&color=2563EB&style=flat-square" alt="Profile views"/>
+---
+
+## Tentang Saya
+
+Halo, saya **Khalilurrahman Mahdi**, lulusan Teknologi Informasi dari **Politeknik Negeri Samarinda**. Saya membangun aplikasi web yang responsif dan terstruktur, serta mengintegrasikan **AI** untuk mengotomatisasi alur kerja.
+
+---
+
+## Tech Stack
+
+**Frontend:** React · TypeScript · Tailwind CSS · Vite
+
+**Backend:** PHP · Laravel · MySQL · Node.js
+
+**AI:** OpenAI API · LangChain · Hugging Face · Prompt Engineering
+
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,php,laravel,mysql,py,git,github,vscode&theme=dark" alt="Tech stack"/>
+
+---
+
+## Statistik GitHub
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=khalilurrahmanmahdi12&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilurrahmanmahdi12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 </div>
 
@@ -22,202 +47,8 @@
 
 <div align="center">
 
-## 👋 Tentang Saya
+### Hubungi Saya
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=800&lines=Halo%2C+saya+Khalilurrahman+Mahdi+%F0%9F%91%8B;Lulusan+Teknologi+Informasi+Politeknik+Negeri+Samarinda;Saya+membangun+web+yang+responsif+dan+terstruktur;Mengintegrasikan+AI+untuk+otomatisasi+alur+kerja" alt="Tentang saya animasi"/>
-
-</div>
-
-<br/>
-
-```js
-const developer = {
-  name: "Khalilurrahman Mahdi",
-  role: "Full-Stack Web Developer",
-  focus: ["Web Modern", "AI Integration", "Automation"],
-  status: "Open to Opportunities 🚀",
-  coffee: Infinity // ☕
-};
-```
-
----
-
-<div align="center">
-
-## 🧠 Yang Saya Kuasai
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:60A5FA&height=50&section=header&text=🎨%20FRONTEND&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="80%" alt="Frontend"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=700&color=60A5FA&center=true&vCenter=true&width=700&lines=React+%7C+TypeScript+%7C+Tailwind+CSS;Membangun+UI+yang+responsif+dan+cepat;Vite+%7C+Zustand+%7C+Recharts" alt="Frontend typing"/>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css&theme=dark" alt="Frontend icons"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:172554,100:1e3a8a&height=50&section=header&text=⚙️%20BACKEND%20%26%20DATABASE&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="80%" alt="Backend"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=700&color=60A5FA&center=true&vCenter=true&width=700&lines=PHP+%7C+Laravel+%7C+MySQL;REST+API+%26+Autentikasi+Berbasis+Peran;Node.js+%7C+Perancangan+Database" alt="Backend typing"/>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs&theme=dark" alt="Backend icons"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:2563EB&height=50&section=header&text=🤖%20AI%20%26%20AUTOMATION&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="80%" alt="AI"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=700&lines=OpenAI+API+%7C+LangChain;LLM+Integration+%26+Prompt+Engineering;RAG+%7C+Hugging+Face+%7C+Python" alt="AI typing"/>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=py,bots&theme=dark" alt="AI icons"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-<img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:374151&height=50&section=header&text=🛠️%20TOOLS%20%26%20DEPLOYMENT&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="80%" alt="Tools"/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Tools icons"/>
-
-</div>
-
----
-
-## 🔭 Proyek Unggulan
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏦 BankOps
-Dashboard simulasi operasional perbankan dengan fokus pada pemantauan transaksi dan pengelolaan operasional.
-
-- 👤 Pengelolaan nasabah dan rekening
-- 🔍 Pemantauan transaksi & indikasi fraud
-- ✅ Alur persetujuan dan audit log
-- 🔐 Hak akses berbasis peran
-
-**Stack:** `React` `TypeScript` `Zustand`
-
-<a href="https://github.com/khalilurrahmanmahdi12/BankOpss"><img src="https://img.shields.io/badge/↗_Lihat_Repositori-111827?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 👥 Manajemen Kepegawaian
-Sistem administrasi kepegawaian untuk pengelolaan pegawai dan proses internal organisasi.
-
-- 🗂️ Data pegawai dan organisasi
-- 🏖️ Pengajuan cuti, izin, dan lembur
-- ✅ Alur persetujuan
-- 📊 Laporan dan ekspor data
-
-**Stack:** `React` `TypeScript` `Recharts`
-
-<a href="https://github.com/khalilurrahmanmahdi12/sistem_kepegawaian"><img src="https://img.shields.io/badge/↗_Lihat_Repositori-111827?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🖥️ IT Support Center
-Aplikasi pengelolaan tiket bantuan teknis untuk mempermudah penanganan permintaan dukungan TI.
-
-- 🎫 Pencatatan dan pelacakan tiket
-- 👨‍🔧 Penugasan teknisi
-- 🔄 Pengelolaan status dan riwayat
-- 🧩 Alur kerja berbasis peran
-
-**Stack:** `React` `TypeScript` `Zustand`
-
-</td>
-<td width="50%" valign="top">
-
-### 📦 Sistem Persediaan ATK
-Sistem pengelolaan stok dan permintaan alat tulis kantor.
-
-- 📥 Pengelolaan stok barang
-- 🙋 Pengajuan kebutuhan karyawan
-- ✅ Persetujuan permintaan
-- 📜 Riwayat dan status pengajuan
-
-**Stack:** `React` `TypeScript` `Tailwind CSS`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<a href="https://khalildev.web.id/"><img src="https://img.shields.io/badge/🗂️_Lihat_Semua_Proyek-Di_Portofolio-2563EB?style=for-the-badge" alt="Semua proyek"/></a>
-</div>
-
----
-
-## 📈 Statistik GitHub
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=khalilurrahmanmahdi12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilurrahmanmahdi12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<br/><br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=khalilurrahmanmahdi12&theme=tokyonight&hide_border=true" alt="Streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=khalilurrahmanmahdi12&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-
-</div>
-
----
-
-## 🎯 Fokus Pengembangan
-
-<div align="center">
-
-| 🎯 Fokus | 💡 Tujuan |
-|:---|:---|
-| 💻 **Web Development** | Membangun aplikasi web modern, fungsional, dan responsif |
-| 🏗️ **Software Engineering** | Meningkatkan kualitas kode, arsitektur, dan struktur aplikasi |
-| 🤖 **AI & Automation** | Mengintegrasikan LLM dan AI-driven tools ke dalam produk |
-| 🚀 **Professional Growth** | Terus belajar lewat proyek nyata, teknologi baru, dan kolaborasi |
-
-</div>
-
----
-
-## 🔥 Sedang Dipelajari
-
-- 🧪 Arsitektur aplikasi AI dengan **LangChain** dan **RAG**
-- 🧱 Pola desain *scalable* untuk aplikasi **React + TypeScript**
-- ⚡ Optimasi performa dan *state management* modern
-
----
-
-<div align="center">
-
-## 📬 Mari Terhubung!
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Terus+belajar%2C+membangun+solusi+cerdas%2C+dan+menciptakan+sesuatu+yang+bermanfaat." alt="Closing typing"/>
-
-<br/><br/>
-
-<a href="https://khalildev.web.id/"><img src="https://img.shields.io/badge/🌐_Kunjungi_Portofolio-2563EB?style=for-the-badge" alt="Portofolio"/></a>
-<a href="https://github.com/khalilurrahmanmahdi12"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:172554,100:020617&height=120&section=footer" width="100%" alt="Footer"/>
+<a href="https://khalildev.web.id/"><img src="https://img.shields.io/badge/Kunjungi_Portofolio-2563EB?style=for-the-badge" alt="Portofolio"/></a>
 
 </div>
