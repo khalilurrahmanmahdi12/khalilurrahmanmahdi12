@@ -1,150 +1,184 @@
-# 👋 Hi, I'm Khalilurrahman Mahdi
 
-### Full-Stack Web Developer | Information Technology Graduate
+<div align="center">
 
-I build modern web applications and digital systems focused on solving practical problems, improving workflows, and delivering better user experiences.
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:020617,50:172554,100:2563EB&text=KHALILURRAHMAN%20MAHDI&fontColor=FFFFFF&fontSize=35&fontAlignY=45&desc=FULL-STACK%20WEB%20DEVELOPER&descSize=16&descAlignY=65&stroke=3B82F6&strokeWidth=1" width="100%" alt="Banner profil"/>
 
-🎓 Fresh Graduate in Information Technology from **Politeknik Negeri Samarinda, Indonesia**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Halo%2C+selamat+datang+di+profil+saya!;Membangun+aplikasi+web+yang+bermanfaat;Eksplorasi+teknologi+dan+AI;Belajar%2C+berkarya%2C+dan+terus+bertumbuh." alt="Animasi teks"/>
+</a>
 
-<p align="left">
-  <a href="https://khalildev.web.id/">
-    <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Website-2563EB?style=for-the-badge" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/khalilurrahmanmahdi12">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<br/>
+
+<a href="https://khalildev.web.id/">
+  <img src="https://img.shields.io/badge/🌐%20PORTOFOLIO-2563EB?style=for-the-badge&logoColor=white" alt="Portofolio"/>
+</a>
+<a href="https://github.com/khalilurrahmanmahdi12">
+  <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## `01` — Tentang Saya
 
-- 💻 Focused on full-stack web development and software engineering.
-- 🏗️ Experienced in building business applications and information systems.
-- ⚛️ Working with React, TypeScript, and modern frontend technologies.
-- 🔧 Building backend applications with PHP and Laravel.
-- 🔐 Interested in role-based access control, workflow automation, and system integration.
-- 🤖 Exploring AI-powered applications and intelligent developer tools.
-- 📂 Explore my projects and live demos at **[khalildev.web.id](https://khalildev.web.id/)**.
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animasi programmer"/>
 
-I enjoy turning ideas into practical applications with clean interfaces, structured workflows, and maintainable code.
+Halo! Saya **Khalilurrahman Mahdi**, lulusan baru Jurusan Teknologi Informasi dari **Politeknik Negeri Samarinda**.
 
-## 🛠️ Tech Stack
+Saya berfokus pada pembangunan aplikasi web modern, sistem informasi, dan solusi digital yang membantu menyederhanakan proses bisnis.
 
-### Frontend Development
+- 🎓 Lulusan Teknologi Informasi
+- 💻 Fokus pada Full-Stack Web Development
+- ⚛️ React & TypeScript
+- 🔧 PHP & Laravel
+- 🤖 Tertarik pada AI dan otomatisasi
+- 🌐 [Lihat portofolio lengkap saya](https://khalildev.web.id/)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br clear="right"/>
 
-### Backend & Database
+---
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## `02` — Teknologi & Tools
 
-### Tools & Platforms
+<div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+### FRONTEND
 
-## 🌟 Featured Projects
+<img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css&theme=dark" alt="Teknologi frontend"/>
 
-### 🏦 BankOps — Banking Operations Dashboard
+### BACKEND & DATABASE
 
-A banking operations dashboard concept designed to simulate operational workflows and transaction monitoring.
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=dark" alt="Teknologi backend"/>
 
-- Customer and account management.
-- Transaction monitoring and fraud alerts.
-- Approval workflows with decision tracking.
-- Role-based access control and audit logs.
-- Operational reporting.
+### TOOLS & DEPLOYMENT
 
-**Tech Stack:** React, TypeScript, Tailwind CSS, Zustand
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Tools pengembangan"/>
 
-🔗 [GitHub Repository](https://github.com/khalilurrahmanmahdi12/BankOpss)
+</div>
 
-### 👥 Digital Employee Management System
+---
 
-A digital employee management application for organizing employee records and internal administrative processes.
+## `03` — Proyek Unggulan
 
-- Employee data management.
-- Leave and overtime requests.
-- Approval workflows.
-- Organizational management.
-- Reports and data export.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Tech Stack:** React, TypeScript, Recharts
+### 🏦 BankOps
 
-🔗 [GitHub Repository](https://github.com/khalilurrahmanmahdi12/sistem_kepegawaian)
+Dashboard simulasi operasional perbankan dengan fokus pada pemantauan transaksi dan pengelolaan proses operasional.
+
+- Pengelolaan nasabah dan rekening
+- Pemantauan transaksi dan indikasi fraud
+- Alur persetujuan dan audit log
+- Hak akses berbasis peran
+
+**Stack:** React · TypeScript · Zustand
+
+<a href="https://github.com/khalilurrahmanmahdi12/BankOpss">↗ LIHAT REPOSITORI</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 👥 Manajemen Kepegawaian
+
+Sistem administrasi kepegawaian untuk pengelolaan pegawai dan proses internal organisasi.
+
+- Data pegawai dan organisasi
+- Pengajuan cuti, izin, dan lembur
+- Alur persetujuan
+- Laporan dan ekspor data
+
+**Stack:** React · TypeScript · Recharts
+
+<a href="https://github.com/khalilurrahmanmahdi12/sistem_kepegawaian">↗ LIHAT REPOSITORI</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🖥️ IT Support Center
 
-An IT support ticket management application designed to organize employee support requests and technician assignments.
+Aplikasi pengelolaan tiket bantuan teknis untuk mempermudah penanganan permintaan dukungan TI.
 
-- Ticket creation and tracking.
-- Ticket assignment and status management.
-- Admin, technician, and employee workflows.
-- Search, filtering, and ticket history.
+- Pencatatan dan pelacakan tiket
+- Penugasan teknisi
+- Pengelolaan status dan riwayat
+- Alur kerja berdasarkan peran
 
-**Tech Stack:** React, TypeScript, Tailwind CSS, Zustand
+**Stack:** React · TypeScript · Zustand
 
-### 📦 Office Inventory Management System
+</td>
+<td width="50%" valign="top">
 
-An office stationery inventory application for managing stock and employee supply requests.
+### 📦 Sistem Persediaan ATK
 
-- Inventory and stock management.
-- Employee supply requests.
-- Request approval and rejection.
-- Request history and status tracking.
+Sistem pengelolaan stok dan permintaan alat tulis kantor.
 
-**Tech Stack:** React, TypeScript, Tailwind CSS, Zustand
+- Pengelolaan stok barang
+- Pengajuan kebutuhan karyawan
+- Persetujuan permintaan
+- Riwayat dan status pengajuan
 
-### 🕌 Public Service & Administrative Systems
+**Stack:** React · TypeScript · Tailwind CSS
 
-Web applications built around administrative workflows, document management, and public services, including projects associated with my internship at Pengadilan Agama Polewali.
+</td>
+</tr>
+</table>
 
-**Technologies:** Laravel, PHP, MySQL, Filament
+<div align="center">
 
-🔗 [Explore More Projects](https://khalildev.web.id/)
+<a href="https://khalildev.web.id/">
+  <img src="https://img.shields.io/badge/LIHAT_SEMUA_PROYEK-Di_Portofolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Semua proyek"/>
+</a>
 
----
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khalilurrahmanmahdi12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilurrahmanmahdi12&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=khalilurrahmanmahdi12&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
-
-## 🎯 Currently Focused On
-
-- Building practical and responsive web applications.
-- Improving software architecture and code quality.
-- Strengthening full-stack development skills.
-- Exploring AI integration and workflow automation.
-- Learning through hands-on projects and continuous improvement.
-
-## 🤝 Let's Connect
-
-I'm interested in opportunities where I can contribute to software development, build useful digital solutions, and grow alongside an engineering team.
-
-🌐 **Portfolio:** [khalildev.web.id](https://khalildev.web.id/)
-
-💻 **GitHub:** [github.com/khalilurrahmanmahdi12](https://github.com/khalilurrahmanmahdi12)
+</div>
 
 ---
 
-<p align="center">
-  <i>"Build with purpose. Learn continuously. Improve every day."</i>
-</p>
+## `04` — Statistik GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=khalilurrahmanmahdi12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Statistik GitHub"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilurrahmanmahdi12&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa pemrograman"/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=khalilurrahmanmahdi12&theme=tokyonight&hide_border=true" alt="Streak kontribusi"/>
+
+</div>
+
+---
+
+## `05` — Fokus Pengembangan
+
+<div align="center">
+
+| Fokus | Tujuan |
+|:---|:---|
+| 💻 Web Development | Membangun aplikasi yang fungsional dan responsif |
+| 🏗️ Software Engineering | Meningkatkan kualitas kode dan struktur aplikasi |
+| 🤖 AI & Automation | Mengeksplorasi solusi berbasis kecerdasan buatan |
+| 🚀 Professional Growth | Terus belajar melalui proyek dan kolaborasi |
+
+</div>
+
+---
+
+<div align="center">
+
+### Mari Terhubung!
+
+Terus belajar, membangun solusi, dan menciptakan sesuatu yang bermanfaat.
+
+<a href="https://khalildev.web.id/">
+  <img src="https://img.shields.io/badge/PORTOFOLIO-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portofolio"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:172554,100:020617&height=100&section=footer" width="100%" alt="Footer biru"/>
+
+</div>
