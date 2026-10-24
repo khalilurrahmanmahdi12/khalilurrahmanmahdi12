@@ -10,7 +10,7 @@
 
 <a href="https://khalildev.web.id/"><img src="https://img.shields.io/badge/Portofolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portofolio"/></a>
 <a href="https://github.com/khalilurrahmanmahdi12"><img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/USERNAME-KAMU"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/khalilurrahman-mahdi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </div>
 
@@ -39,14 +39,14 @@ Saya **Khalilurrahman Mahdi**, lulusan Teknologi Informasi dari **Politeknik Neg
 
 **Frontend**
 
-React · TypeScript · Tailwind CSS · Vite · Zustand · Recharts
+HTML · CSS · JavaScript · React · TypeScript · Tailwind CSS · Vite · Zustand · Recharts
 
 </td>
 <td width="33%" valign="top">
 
 **Backend & Database**
 
-PHP · Laravel · MySQL · Node.js · REST API
+PHP · Laravel · Filament · MySQL · Node.js · REST API
 
 </td>
 <td width="33%" valign="top">
@@ -61,7 +61,26 @@ OpenAI API · LangChain · Hugging Face · Prompt Engineering · Python
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,php,laravel,mysql,nodejs,py,git,github,vscode&theme=dark" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,php,laravel,mysql,nodejs,py,git,github,vscode&theme=dark" alt="Tech stack"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/filament/FDAE4B" height="48" alt="Filament"/>
+<br/><sub><b>Filament</b></sub>
+</td>
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/antigravity-color.svg" height="48" alt="Google Antigravity"/>
+<br/><sub><b>Antigravity</b></sub>
+</td>
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/codex-color.svg" height="48" alt="GPT Codex"/>
+<br/><sub><b>GPT Codex</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -96,6 +115,6 @@ Terbuka untuk diskusi proyek, kolaborasi, dan peluang profesional.
 <br/>
 
 <a href="https://khalildev.web.id/"><img src="https://img.shields.io/badge/Kunjungi_Portofolio-2563EB?style=for-the-badge" alt="Portofolio"/></a>
-<a href="https://linkedin.com/in/USERNAME-KAMU"><img src="https://img.shields.io/badge/Hubungi_di_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/khalilurrahman-mahdi"><img src="https://img.shields.io/badge/Hubungi_di_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </div>
