@@ -59,30 +59,11 @@ OpenAI API · LangChain · Hugging Face · Prompt Engineering · Python
 </tr>
 </table>
 
-<div align="center">
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,php,laravel,mysql,nodejs,py,git,github,vscode&theme=dark" alt="Tech stack"/>
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="140">
-<img src="https://cdn.simpleicons.org/filament/FDAE4B" height="48" alt="Filament"/>
-<br/><sub><b>Filament</b></sub>
-</td>
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/antigravity-color.svg" height="48" alt="Google Antigravity"/>
-<br/><sub><b>Antigravity</b></sub>
-</td>
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/codex-color.svg" height="48" alt="GPT Codex"/>
-<br/><sub><b>GPT Codex</b></sub>
-</td>
-</tr>
-</table>
-
-</div>
+<br/>
+<img src="./assets/ai-tools.svg" height="48" alt="Filament, Google Antigravity, GPT Codex"/>
+</p>
 
 ---
 
