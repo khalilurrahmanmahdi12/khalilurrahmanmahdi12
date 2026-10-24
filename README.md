@@ -1,10 +1,9 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:020617,50:172554,100:2563EB&text=KHALILURRAHMAN%20MAHDI&fontColor=FFFFFF&fontSize=35&fontAlignY=45&desc=FULL-STACK%20WEB%20DEVELOPER&descSize=16&descAlignY=65&stroke=3B82F6&strokeWidth=1" width="100%" alt="Banner profil"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:020617,50:172554,100:2563EB&text=KHALILURRAHMAN%20MAHDI&fontColor=FFFFFF&fontSize=35&fontAlignY=45&desc=FULL-STACK%20WEB%20DEVELOPER%20%26%20AI%20ENTHUSIAST&descSize=16&descAlignY=65&stroke=3B82F6&strokeWidth=1" width="100%" alt="Banner profil"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Halo%2C+selamat+datang+di+profil+saya!;Membangun+aplikasi+web+yang+bermanfaat;Eksplorasi+teknologi+dan+AI;Belajar%2C+berkarya%2C+dan+terus+bertumbuh." alt="Animasi teks"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Halo%2C+selamat+datang+di+profil+saya!;Membangun+aplikasi+web+modern+berbasis+AI;Eksplorasi+teknologi+dan+kecerdasan+buatan;Belajar%2C+berkarya%2C+dan+terus+bertumbuh." alt="Animasi teks"/>
 </a>
 
 <br/>
@@ -15,6 +14,9 @@
 <a href="https://github.com/khalilurrahmanmahdi12">
   <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+<a href="https://linkedin.com/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 </div>
 
@@ -24,15 +26,15 @@
 
 <img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animasi programmer"/>
 
-Halo! Saya **Khalilurrahman Mahdi**, lulusan baru Jurusan Teknologi Informasi dari **Politeknik Negeri Samarinda**.
+Halo! Saya **Khalilurrahman Mahdi**, lulusan baru Jurusan Teknologi Informasi dari **Politeknik Negeri Samarinda**. 
 
-Saya berfokus pada pembangunan aplikasi web modern, sistem informasi, dan solusi digital yang membantu menyederhanakan proses bisnis.
+Saya memiliki passion dalam membangun aplikasi web modern yang responsif, terstruktur, serta mengintegrasikan solusi cerdas berbasis **Artificial Intelligence (AI)** untuk menyederhanakan proses bisnis dan otomatisasi alur kerja.
 
-- 🎓 Lulusan Teknologi Informasi
+- 🎓 Lulusan Teknologi Informasi — Politeknik Negeri Samarinda
 - 💻 Fokus pada Full-Stack Web Development
-- ⚛️ React & TypeScript
-- 🔧 PHP & Laravel
-- 🤖 Tertarik pada AI dan otomatisasi
+- ⚛️ Frontend: React, TypeScript, Tailwind CSS
+- 🔧 Backend: PHP, Laravel, MySQL
+- 🤖 AI & Automation: OpenAI API, LangChain, LLM Integration, Prompt Engineering
 - 🌐 [Lihat portofolio lengkap saya](https://khalildev.web.id/)
 
 <br clear="right"/>
@@ -44,16 +46,21 @@ Saya berfokus pada pembangunan aplikasi web modern, sistem informasi, dan solusi
 <div align="center">
 
 ### FRONTEND
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css&theme=dark" alt="Teknologi frontend"/>
+<img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css&theme=dark" alt="Frontend stack"/>
 
 ### BACKEND & DATABASE
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs&theme=dark" alt="Backend stack"/>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=dark" alt="Teknologi backend"/>
+### AI & MACHINE LEARNING TOOLS
+<img src="https://skillicons.dev/icons?i=py,bots&theme=dark" alt="AI tools"/>
+<br>
+<a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/></a>
+<a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/></a>
+<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
+<a href="https://cursor.com/"><img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/></a>
 
-### TOOLS & DEPLOYMENT
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Tools pengembangan"/>
+### TOOLS, DEVICING & DEPLOYMENT
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,postman&theme=dark" alt="Dev tools"/>
 
 </div>
 
@@ -66,7 +73,6 @@ Saya berfokus pada pembangunan aplikasi web modern, sistem informasi, dan solusi
 <td width="50%" valign="top">
 
 ### 🏦 BankOps
-
 Dashboard simulasi operasional perbankan dengan fokus pada pemantauan transaksi dan pengelolaan proses operasional.
 
 - Pengelolaan nasabah dan rekening
@@ -82,7 +88,6 @@ Dashboard simulasi operasional perbankan dengan fokus pada pemantauan transaksi 
 <td width="50%" valign="top">
 
 ### 👥 Manajemen Kepegawaian
-
 Sistem administrasi kepegawaian untuk pengelolaan pegawai dan proses internal organisasi.
 
 - Data pegawai dan organisasi
@@ -100,7 +105,6 @@ Sistem administrasi kepegawaian untuk pengelolaan pegawai dan proses internal or
 <td width="50%" valign="top">
 
 ### 🖥️ IT Support Center
-
 Aplikasi pengelolaan tiket bantuan teknis untuk mempermudah penanganan permintaan dukungan TI.
 
 - Pencatatan dan pelacakan tiket
@@ -114,7 +118,6 @@ Aplikasi pengelolaan tiket bantuan teknis untuk mempermudah penanganan permintaa
 <td width="50%" valign="top">
 
 ### 📦 Sistem Persediaan ATK
-
 Sistem pengelolaan stok dan permintaan alat tulis kantor.
 
 - Pengelolaan stok barang
@@ -158,10 +161,10 @@ Sistem pengelolaan stok dan permintaan alat tulis kantor.
 
 | Fokus | Tujuan |
 |:---|:---|
-| 💻 Web Development | Membangun aplikasi yang fungsional dan responsif |
-| 🏗️ Software Engineering | Meningkatkan kualitas kode dan struktur aplikasi |
-| 🤖 AI & Automation | Mengeksplorasi solusi berbasis kecerdasan buatan |
-| 🚀 Professional Growth | Terus belajar melalui proyek dan kolaborasi |
+| 💻 Web Development | Membangun aplikasi web modern, fungsional, dan responsif |
+| 🏗️ Software Engineering | Meningkatkan kualitas kode, arsitektur, dan struktur aplikasi |
+| 🤖 AI & Automation | Mengintegrasikan LLM dan AI-driven tools ke dalam pengembangan produk |
+| 🚀 Professional Growth | Terus belajar melalui proyek nyata, eksplorasi teknologi baru, dan kolaborasi |
 
 </div>
 
@@ -171,7 +174,7 @@ Sistem pengelolaan stok dan permintaan alat tulis kantor.
 
 ### Mari Terhubung!
 
-Terus belajar, membangun solusi, dan menciptakan sesuatu yang bermanfaat.
+Terus belajar, membangun solusi cerdas, dan menciptakan sesuatu yang bermanfaat.
 
 <a href="https://khalildev.web.id/">
   <img src="https://img.shields.io/badge/PORTOFOLIO-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portofolio"/>
