@@ -1,12 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:020617,50:172554,100:2563EB&text=KHALILURRAHMAN%20MAHDI&fontColor=FFFFFF&fontSize=35&fontAlignY=45&desc=FULL-STACK%20WEB%20DEVELOPER%20%26%20AI%20ENTHUSIAST&descSize=16&descAlignY=65&stroke=3B82F6&strokeWidth=1" width="100%" alt="Banner profil"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Halo%2C+selamat+datang+di+profil+saya!;Membangun+aplikasi+web+modern+berbasis+AI;Eksplorasi+teknologi+dan+kecerdasan+buatan;Belajar%2C+berkarya%2C+dan+terus+bertumbuh." alt="Animasi teks"/>
-</a>
+<!-- Banner Animasi Keren -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Header Banner Animasi"/>
 
 <br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=KHALILURRAHMAN+MAHDI;Full-Stack+Web+Developer+%26+AI+Enthusiast;Membangun+aplikasi+web+modern+berbasis+AI;Eksplorasi+teknologi+dan+kecerdasan+buatan." alt="Animasi teks"/>
+</a>
+
+<br/><br/>
 
 <a href="https://khalildev.web.id/">
   <img src="https://img.shields.io/badge/🌐%20PORTOFOLIO-2563EB?style=for-the-badge&logoColor=white" alt="Portofolio"/>
@@ -59,8 +62,8 @@ Saya memiliki passion dalam membangun aplikasi web modern yang responsif, terstr
 <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
 <a href="https://cursor.com/"><img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/></a>
 
-### TOOLS, DEVICING & DEPLOYMENT
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,postman&theme=dark" alt="Dev tools"/>
+### TOOLS & DEPLOYMENT
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Dev tools"/>
 
 </div>
 
