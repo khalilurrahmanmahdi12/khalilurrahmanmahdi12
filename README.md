@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:172554,100:2563EB&height=220&section=header&text=Khalilurrahman%20Mahdi&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%26%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:172554,100:2563EB&height=260&section=header&text=Khalilurrahman%20Mahdi&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Full-Stack%20Web%20Developer%20%26%20AI%20Enthusiast&descAlignY=64&descSize=20&descAlign=50" width="100%" alt="Header Animasi"/>
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Membangun+aplikasi+web+modern+berbasis+AI;Full-Stack+Developer+%7C+React+%7C+Laravel;Mengubah+ide+menjadi+produk+nyata+%F0%9F%9A%80">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Membangun+aplikasi+web+modern+berbasis+AI;Full-Stack+Developer+%7C+React+%7C+Laravel;Mengubah+ide+menjadi+produk+nyata+%F0%9F%9A%80" alt="Typing animation"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=800&lines=Membangun+aplikasi+web+modern+berbasis+AI;Full-Stack+Developer+%7C+React+%7C+Laravel;Mengubah+ide+menjadi+produk+nyata+%F0%9F%9A%80" alt="Typing animation"/>
 
 <br/><br/>
 
@@ -22,13 +20,15 @@
 
 ---
 
+<div align="center">
+
 ## 👋 Tentang Saya
 
-<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programmer animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=800&lines=Halo%2C+saya+Khalilurrahman+Mahdi+%F0%9F%91%8B;Lulusan+Teknologi+Informasi+Politeknik+Negeri+Samarinda;Saya+membangun+web+yang+responsif+dan+terstruktur;Mengintegrasikan+AI+untuk+otomatisasi+alur+kerja" alt="Tentang saya animasi"/>
 
-Halo, saya **Khalilurrahman Mahdi**, lulusan baru **Teknologi Informasi** dari **Politeknik Negeri Samarinda**.
+</div>
 
-Saya senang membangun aplikasi web yang **responsif, terstruktur, dan mudah dipakai**, serta mengintegrasikan **Artificial Intelligence** untuk menyederhanakan proses bisnis dan mengotomatisasi alur kerja.
+<br/>
 
 ```js
 const developer = {
@@ -36,34 +36,56 @@ const developer = {
   role: "Full-Stack Web Developer",
   focus: ["Web Modern", "AI Integration", "Automation"],
   status: "Open to Opportunities 🚀",
-  coffee: Infinity ☕
+  coffee: Infinity // ☕
 };
 ```
 
-<br clear="right"/>
-
 ---
-
-## 🧠 Yang Saya Kuasai
 
 <div align="center">
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css&theme=dark" alt="Frontend"/>
+## 🧠 Yang Saya Kuasai
 
-### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs&theme=dark" alt="Backend"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:60A5FA&height=50&section=header&text=🎨%20FRONTEND&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="80%" alt="Frontend"/>
 
-### 🤖 AI & Automation
-<img src="https://skillicons.dev/icons?i=py,bots&theme=dark" alt="AI"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=700&color=60A5FA&center=true&vCenter=true&width=700&lines=React+%7C+TypeScript+%7C+Tailwind+CSS;Membangun+UI+yang+responsif+dan+cepat;Vite+%7C+Zustand+%7C+Recharts" alt="Frontend typing"/>
+
 <br/>
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css&theme=dark" alt="Frontend icons"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:172554,100:1e3a8a&height=50&section=header&text=⚙️%20BACKEND%20%26%20DATABASE&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="80%" alt="Backend"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=700&color=60A5FA&center=true&vCenter=true&width=700&lines=PHP+%7C+Laravel+%7C+MySQL;REST+API+%26+Autentikasi+Berbasis+Peran;Node.js+%7C+Perancangan+Database" alt="Backend typing"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs&theme=dark" alt="Backend icons"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:2563EB&height=50&section=header&text=🤖%20AI%20%26%20AUTOMATION&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="80%" alt="AI"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=700&lines=OpenAI+API+%7C+LangChain;LLM+Integration+%26+Prompt+Engineering;RAG+%7C+Hugging+Face+%7C+Python" alt="AI typing"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=py,bots&theme=dark" alt="AI icons"/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
 
-### 🛠️ Tools & Deployment
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Tools"/>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:374151&height=50&section=header&text=🛠️%20TOOLS%20%26%20DEPLOYMENT&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="80%" alt="Tools"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Tools icons"/>
 
 </div>
 
@@ -182,17 +204,13 @@ Sistem pengelolaan stok dan permintaan alat tulis kantor.
 
 ---
 
-## 💬 Quote
-
-> *"Kode yang baik ditulis untuk manusia, dan hanya kebetulan dijalankan oleh mesin."*
-
----
-
 <div align="center">
 
 ## 📬 Mari Terhubung!
 
-Terus belajar, membangun solusi cerdas, dan menciptakan sesuatu yang bermanfaat.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Terus+belajar%2C+membangun+solusi+cerdas%2C+dan+menciptakan+sesuatu+yang+bermanfaat." alt="Closing typing"/>
+
+<br/><br/>
 
 <a href="https://khalildev.web.id/"><img src="https://img.shields.io/badge/🌐_Kunjungi_Portofolio-2563EB?style=for-the-badge" alt="Portofolio"/></a>
 <a href="https://github.com/khalilurrahmanmahdi12"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
